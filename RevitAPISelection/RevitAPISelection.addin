@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPISelection.dll"</Assembly>
+		<AddInId>CF42D227-622B-415F-8818-A8CF792B9641</AddInId>
+		<FullClassName> RevitAPISelection.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Element selection</Text>
+	</AddIn>
+</RevitAddIns>
